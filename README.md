@@ -14,5 +14,5 @@
 ## Tomcat configuration
 * **Puerto**: 8090
 * **Usuario**: oscar
-* **Contraseña**:3.1415
+* **Contraseña**: 3.1415
 * **Url**: http://3.211.19.49:8090/
